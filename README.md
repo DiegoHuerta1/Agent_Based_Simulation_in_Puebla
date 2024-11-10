@@ -1,7 +1,6 @@
-# Simulación Centro
-Modelo de simulación basada en agentes creado para modelar el centro histórico de Puebla. 
+# Simulation of Puebla
+An agent-based simulation model created to represent the traffic flow on historic center of Puebla.
 
-Se incluye la información del grafo que modela el centro, como un grafo de networkx, con posición espacial de cada nodo incluida.
-Se presenta el modelo general de simulación basada en agentes para un grafo cualquiera, sumamente general y personalizable, con potencial de ser usado en otras aplicaciones. El modelo se encuentra como un paquete de python, se puede importar la case y usarla facilmente. Tambien se tienen ejemplos de aplicación del modelo en un grafo simple y en el grafo del centro histórico de Puebla. Además se incluye un ejemplo de aplicación del modelo, en el que se hace un anílisis estadistico del impacto que tiene el tiempo al bloquear una calle.
+It includes the graph information modeling the center as a NetworkX graph, with the spatial position of each node included. The model presents a general agent-based simulation framework for any graph—highly general and customizable, with potential for use in other applications. The model is packaged in Python, so the class can be easily imported and used. Application examples of the model are also provided, both on a simple graph and on the graph of Puebla’s historic center. Additionally, a sample application of the model is included, featuring a statistical analysis of the impact of blocking a street for a certain amount of time.
 
-Este proyecto se desarrolló para el Datathon 2024.
+This project was developed for the Datathon 2024.
